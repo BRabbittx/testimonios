@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #eeeeee; 
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  font-family: Lato, sans-serif;
+}
+
+.villamedic-logo-contenedor {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.villamedic-logo {
+  height: 100px;
+}
+
+.contenedor-principal {
+  height: 500px;
+  min-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
