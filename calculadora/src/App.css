@@ -1,0 +1,26 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+  background-color: #eeeeee;
+  font-family: Poppins,sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.villamedic-logo-contenedor {
+width: 100;
+height: 50px;
+margin: 8px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.villamedic-logo
+{
+  height: 400px;
+}
