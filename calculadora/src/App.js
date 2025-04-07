@@ -11,7 +11,11 @@ function App() {
           alt='Logo de Villamedic'
         />
       </div>
+      <div className='contenedor-calculadora'>
+        
+      </div>
     </div>
+     
   );
 }
 
